@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 
 *{
     box-sizing: border-box;
@@ -24,7 +24,7 @@ body{
     radial-gradient(at 52% 13%, hsla(110, 83%, 72%, 1) 0px, transparent 50%),
     radial-gradient(at 30% 80%, hsla(263, 79%, 66%, 1) 0px, transparent 50%);
     color: #000;
-    font-family: 'Ubuntu';
+    font-family: 'Poppins', sans-serif;
 }
 
 .login{
